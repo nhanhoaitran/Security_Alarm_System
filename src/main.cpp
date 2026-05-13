@@ -9,6 +9,7 @@
 #define BUZZER_PIN    12
 #define LED_PIN       13
 
+
 void updateLCD(String line1, String line2);
 void handleEntryDelay(char key);
 void handlePasswordInput(char key);
