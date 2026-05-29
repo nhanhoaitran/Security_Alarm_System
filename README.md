@@ -106,7 +106,7 @@ Bước vào (PIR phát hiện) → Nhập PIN trong 30s → Nhấn '#' → [DIS
 Nhập đúng PIN → Nhấn '#' → [DISARMED]
 ```
 
-### Đổi mật khẩu *(chức năng bổ sung)*
+### Đổi mật khẩu 
 ```
 Nhấn '*' → [MENU] → Nhấn 'B' → Nhập pass cũ + '#' → Nhập pass mới + '#' → Hoàn tất
 ```
