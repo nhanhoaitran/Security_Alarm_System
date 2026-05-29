@@ -223,7 +223,6 @@ Security_Alarm_System/          ← Thư mục gốc (PlatformIO)
 
 ## 📄 Tài Liệu Tham Khảo
 
-- Tài liệu giảng dạy môn CE103 – Vi xử lý, Vi điều khiển. UIT, ĐHQG-HCM.
 - [Arduino Security Alarm System Project – HowToMechatronics](https://howtomechatronics.com/projects/arduino-security-alarm-system-project/)
 - [TimerOne Library – Arduino Playground](https://playground.arduino.cc/Code/Timer1/)
 - [Keypad Library – Arduino Playground](https://playground.arduino.cc/Code/Keypad/)
