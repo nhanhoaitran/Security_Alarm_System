@@ -18,7 +18,7 @@ Hệ thống báo động an ninh được xây dựng trên nền tảng Arduin
 | 3 | **FSM 6 trạng thái** | Luồng điều khiển rõ ràng, chuyển trạng thái chính xác và ổn định |
 | 4 | **Exit Delay (10 giây)** | Đếm ngược cho phép người dùng rời khỏi khu vực trước khi PIR hoạt động |
 | 5 | **Entry Delay (30 giây)** | Cửa sổ nhập mật khẩu tắt báo động, phân biệt chủ nhà và kẻ xâm nhập |
-| 6 | **Đổi mật khẩu** | Quy trình 2 bước có xác thực mật khẩu cũ *(chức năng bổ sung)* |
+| 6 | **Đổi mật khẩu** | Quy trình 2 bước có xác thực mật khẩu cũ |
 | 7 | **Giao diện LCD thời gian thực** | Hiển thị đếm ngược, trạng thái hệ thống và ô nhập mật khẩu ẩn `*` |
 
 ---
