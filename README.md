@@ -1,6 +1,5 @@
 # 🚨 Hệ Thống Báo Động An Ninh — Arduino Security Alarm System
 
-> Đồ án môn CE103.Q21 – Vi xử lý - Vi điều khiển · UIT ĐHQG-HCM
 
 ---
 
