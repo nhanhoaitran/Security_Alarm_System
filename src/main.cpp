@@ -52,7 +52,7 @@ volatile SystemState currentState = DISARMED;
 // Các biến đếm thời gian
 volatile unsigned long delayStartTime = 0; 
 const unsigned long ENTRY_DURATION = 30000; // 30 giây Delay vào
-const unsigned long EXIT_DURATION = 10000;  // 10 giây Delay ra (mới thêm)
+const unsigned long EXIT_DURATION = 10000;  // 10 giây Delay ra 
 
 // Biến cho Timer điều khiển LED/Còi
 volatile int sirenFreq = 500;
